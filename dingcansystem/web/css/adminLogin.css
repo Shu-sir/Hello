@@ -1,0 +1,66 @@
+.span.msg{
+    color: red;
+    font-weight: bold;
+}
+.adminLogin{
+    width: 100%;
+    height: 600px;
+}
+.head{
+    /*上下 左右*/
+    margin: 190px auto 0px;
+    width: 250px;
+    text-align: center;
+    font-size: 30px;
+}
+.userName{
+    margin: 80px auto 10px;
+    width: 300px;
+    height: 30px;
+}
+.user1{
+    width: 80px;
+    height: 30px;
+    float: left;
+    word-break: break-all;
+    font-size: 15px;
+}
+.user2{
+    width: 220px;
+    height: 30px;
+    float: left;
+}
+.passWord{
+    margin: 40px auto 10px;
+    width: 300px;
+    height: 30px;
+}
+.pass1{
+    width: 80px;
+    height: 30px;
+    float: left;
+    word-break: break-all;
+    font-size: 15px;
+}
+.pass2{
+    width: 220px;
+    height: 30px;
+    float: left;
+}
+.tijiao{
+    margin: 10px auto 10px;
+    width: 300px;
+    height: 30px;
+}
+.tijiaoLeft{
+    width: 50%;
+    float: left;
+    margin: auto auto;
+    text-align: center;
+}
+.tijiaoRight{
+    width: 50%;
+    float: left;
+    margin: auto auto;
+    text-align: center;
+}

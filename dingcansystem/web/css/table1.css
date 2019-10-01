@@ -1,0 +1,11 @@
+.wrap{
+    margin: 10px 30px auto;
+}
+.main_tb{
+    width: 100%;
+    border-color: #4898cc;
+    border-width: 0.5px;
+}
+.tb_title{
+    height: 30px;
+}
